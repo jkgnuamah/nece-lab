@@ -1,7 +1,7 @@
 ---
 # An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
+widget: featured
 
 # This file represents a page section.
 headless: true
@@ -15,6 +15,7 @@ subtitle:
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  page_type: People
   user_groups:
   - Principal Investigators
   - Researchers
@@ -27,3 +28,4 @@ design:
   show_role: true
   show_social: true
 ---
+
