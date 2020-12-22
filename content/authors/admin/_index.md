@@ -6,7 +6,7 @@
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: NeCE Lab
 
 # Organizations/Affiliations to show in About widget
 organizations:
