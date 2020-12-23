@@ -6,7 +6,7 @@ title: "Field Methods to quantify emergency responder fatigue: Lessons learned f
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Ranjana Metha
-- admin
+- **admin**
 - S. Camille Peres
 - Robin Murphy
 
@@ -15,11 +15,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2020-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
