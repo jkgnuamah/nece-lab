@@ -35,16 +35,7 @@ publication_types: ["3"]
 publication: "*Advances in Radiation Oncology*"
 publication_short: ""
 
-abstract: 
-Purpose
-This study aimed to assess the impact of simulation-based training intervention on radiation therapy therapist (RTT) mental workload, situation awareness, and performance during routine quality assurance (QA) and treatment delivery tasks.
-Methods and Materials
-As part of a prospective institutional review board–approved study, 32 RTTs completed routine QA and treatment delivery tasks on clinical scenarios in a simulation laboratory. Participants, randomized to receive (n = 16) versus not receive (n = 16) simulation-based training had pre- and postintervention assessments of mental workload, situation awareness, and performance. We used linear regression models to compare the postassessment scores between the study groups while controlling for baseline scores. Mental workload was quantified subjectively using the NASA Task Load Index. Situation awareness was quantified subjectively using the situation awareness rating technique and objectively using the situation awareness global assessment technique. Performance was quantified based on procedural compliance (adherence to preset/standard QA timeout tasks) and error detection (detection and correction of embedded treatment planning errors).
-Results
-Simulation-based training intervention was associated with significant improvements in overall performance (P < .01), but had no significant impact on mental workload or subjective/objective quantifications of situation awareness.
-Conclusions
-Simulation-based training might be an effective tool to improve RTT performance of QA-related tasks.
-
+abstract: This study aimed to assess the impact of simulation-based training intervention on radiation therapy therapist (RTT) mental workload, situation awareness, and performance during routine quality assurance (QA) and treatment delivery tasks. As part of a prospective institutional review board–approved study, 32 RTTs completed routine QA and treatment delivery tasks on clinical scenarios in a simulation laboratory. Participants, randomized to receive (n = 16) versus not receive (n = 16) simulation-based training had pre- and postintervention assessments of mental workload, situation awareness, and performance. We used linear regression models to compare the postassessment scores between the study groups while controlling for baseline scores. Mental workload was quantified subjectively using the NASA Task Load Index. Situation awareness was quantified subjectively using the situation awareness rating technique and objectively using the situation awareness global assessment technique. Performance was quantified based on procedural compliance (adherence to preset/standard QA timeout tasks) and error detection (detection and correction of embedded treatment planning errors).Simulation-based training intervention was associated with significant improvements in overall performance (P < .01), but had no significant impact on mental workload or subjective/objective quantifications of situation awareness. Simulation-based training might be an effective tool to improve RTT performance of QA-related tasks.
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
