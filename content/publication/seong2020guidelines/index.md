@@ -30,10 +30,10 @@ publication_types: ["1"]
 publication: In *Proceedings of the 24th Symposium on International Database Engineering & Applications*
 publication_short: In *IDEAS '20*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Cyber security visualization designers can benefit from human factors engineering concepts and principles to resolve key human factors challenges in visual interface design. We survey human factors concepts and principles that have been applied in the past decade of human factors research. We highlight these concepts and relate them to cybersecurity visualization design. We provide guidelines to help cybersecurity visualization designers address some human factors challenges in the context of interface design. We use ecological interface design approach to present human factors-based principles of interface design for visualization. Cyber security visualization designers will benefit from human factors engineering concepts and principles to resolve key human factors challenges in visual interface design.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
