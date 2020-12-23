@@ -17,5 +17,6 @@ advanced:
   css_style:
   css_class:
 ---
+The NeuroErgonomics and Cognitive Engineering (NeCE) Lab is focused on understanding neural, physiological, and behavioral mechanisms underlying human-system interactions, and using that knowledge to inform the design, development, and assessment of cyber-physical systems with the goal of enhancing productivity, safety, and health.
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Areas of application include aviation, health care, surface transportation, energy, and military systems.
