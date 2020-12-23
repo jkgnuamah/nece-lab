@@ -39,9 +39,9 @@ tags: []
 # featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: HTML
-   url: https://www.tandfonline.com/doi/full/10.1080/24725838.2020.1855272?casa_token=9DlwF-xwIaMAAAAA%3A2RnSpAGbhPVmquvy4p5Jsbnke3_iONTOFDq8YVyvXFjLXiiJl5Ej7S5-q6dSE1NLJ-qiSJoecefrvw
+# links:
+ # - name: HTML
+ #  url: https://www.tandfonline.com/doi/full/10.1080/24725838.2020.1855272?casa_token=9DlwF-xwIaMAAAAA%3A2RnSpAGbhPVmquvy4p5Jsbnke3_iONTOFDq8YVyvXFjLXiiJl5Ej7S5-q6dSE1NLJ-qiSJoecefrvw
 
 url_pdf: ''
 url_code: ''
