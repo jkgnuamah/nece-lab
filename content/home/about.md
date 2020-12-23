@@ -4,8 +4,8 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-# widget: hero  # See https://wowchemy.com/docs/page-builder/
-widget: about 
+widget: hero  # See https://wowchemy.com/docs/page-builder/
+# widget: about 
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 # title: "Wowchemy Research Group"
