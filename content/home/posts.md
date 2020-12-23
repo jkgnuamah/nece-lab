@@ -9,29 +9,29 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
+title: Announcement
 subtitle:
 
-content:
+# content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: post
+  # page_type: post
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  # count: 5
   # Filter on criteria
-  filters:
-    author: ""
-    category: ""
-    tag: ""
-    exclude_featured: false
-    exclude_future: false
-    exclude_past: false
-    publication_type: ""
+  # filters:
+  #  author: ""
+  #  category: ""
+  #  tag: ""
+  #  exclude_featured: false
+  #  exclude_future: false
+  #  exclude_past: false
+  #  publication_type: ""
   # Choose how many pages you would like to offset by
-  offset: 0
+  # offset: 0
   # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  # order: desc
 
-design:
+# design:
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
@@ -39,3 +39,8 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+For prospective graduate students
+Dr. Nuamah is accepting new graduate students starting in Fall 2021. Please contact Dr. Nuamah if you are interested. 
+
+For undergraduate research assistants
+NeCE Lab is always looking for highly-motived undergraduate research assistants. Please contact Dr. Nuamah if you are interested. 
