@@ -9,12 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Announcement
+title: Post
 # subtitle:
 
 ---
-For prospective graduate students
+**For prospective graduate students**
+
 Dr. Nuamah is accepting new graduate students starting in Fall 2021. Please contact Dr. Nuamah if you are interested. 
 
-For undergraduate research assistants
+**For undergraduate research assistants**
+
 NeCE Lab is always looking for highly-motived undergraduate research assistants. Please contact Dr. Nuamah if you are interested. 
