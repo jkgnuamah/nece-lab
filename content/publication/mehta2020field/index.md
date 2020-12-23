@@ -5,10 +5,10 @@ title: "Field Methods to quantify emergency responder fatigue: Lessons learned f
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Ranjana Mehta
+# - Ranjana Mehta
 - admin
 # - S. Camille Peres
-- Robin Murphy
+# - Robin Murphy
 
 # Author notes (optional)
 # author_notes:
