@@ -14,9 +14,9 @@ hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-advanced:
-  css_style:
-  css_class:
+# advanced:
+#  css_style:
+#  css_class:
 ---
 The NeuroErgonomics and Cognitive Engineering (NeCE) Lab is focused on understanding neural, physiological, and behavioral mechanisms underlying human-system interactions, and using that knowledge to inform the design, development, and assessment of cyber-physical systems with the goal of enhancing productivity, safety, and health.
 
