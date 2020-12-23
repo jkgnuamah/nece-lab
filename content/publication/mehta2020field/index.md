@@ -4,9 +4,9 @@ title: "Field Methods to Quantify Emergency Responder Fatigue: Lessons Learned f
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-authors:
+# authors:
 - admin
-- Robert Ford
+# - Robert Ford
 
 # Author notes (optional)
 author_notes:
@@ -39,7 +39,7 @@ tags: []
 # featured: true
 
 # Custom links (uncomment lines below)
-# links:
+ links:
  - name: HTML
    url: https://www.tandfonline.com/doi/full/10.1080/24725838.2020.1855272?casa_token=9DlwF-xwIaMAAAAA%3A2RnSpAGbhPVmquvy4p5Jsbnke3_iONTOFDq8YVyvXFjLXiiJl5Ej7S5-q6dSE1NLJ-qiSJoecefrvw
 
