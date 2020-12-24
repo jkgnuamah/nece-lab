@@ -6,7 +6,7 @@ title: "Guidelines for cybersecurity visualization design"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Younho Seong
-- admin
+- Joseph Nuamah
 - Sun Yi
 
 # Author notes (optional)
