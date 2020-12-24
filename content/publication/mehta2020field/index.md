@@ -6,7 +6,7 @@ title: "Field Methods to quantify emergency responder fatigue: Lessons learned f
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Ranjana Metha
-- admin
+- Joseph Nuamah
 - S. Camille Peres
 - Robin Murphy
 
