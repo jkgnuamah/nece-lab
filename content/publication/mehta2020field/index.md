@@ -39,7 +39,7 @@ abstract: There has been increasing use of small unmanned aerial systems in disa
 
 # tags:
 # - Source Themes
-featured: false
+# featured: false
 
 # Custom links (uncomment lines below)
 # links:
