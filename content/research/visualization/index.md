@@ -1,6 +1,6 @@
 ---
 title: Improving Information Visualization in Human-System Interaction
-summary: This research seeks to will to develop information representations that map directly onto human intuitive processes by integrating and optimally presenting information based on human cognitive abilities and limitations.
+summary: This research seeks to develop information representations that map directly onto human intuitive processes by integrating and optimally presenting information based on human cognitive abilities and limitations.
 tags:
 - Information Visualization
 date: "2020-04-27T00:00:00Z"
@@ -30,6 +30,5 @@ url_video: ""
 # slides: example
 ---
 
-Traditional human-system interfaces are designed to promote ease of use but have little regard for the impact that they have on users’ cognitive representations. This research investigates how human-system
-interactions may be improved by incorporating both analytical and intuitive cognition in them. We seek to develop information representations that map directly onto human intuitive processes by integrating and optimally presenting
+Traditional human-system interfaces are designed to promote ease of use but have little regard for the impact that they have on users’ cognitive representations. This research investigates how human-system interactions may be improved by incorporating both analytical and intuitive cognition in them. We seek to develop information representations that map directly onto human intuitive processes by integrating and optimally presenting
 information based on human cognitive abilities and limitations. 
