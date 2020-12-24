@@ -8,7 +8,7 @@ authors:
 - Lukasz Mazur
 - Robert Adams
 - Prithima Mosaly
-- admin
+- Joseph Nuamah
 - Karthik Adapa
 - Lawrence Marks
 
