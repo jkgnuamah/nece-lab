@@ -1,6 +1,6 @@
 ---
 title: Improving Information Visualization in Human-System Interaction
-summary: An example of using the in-built project page.
+summary: This research seeks to will to develop information representations that map directly onto human intuitive processes by integrating and optimally presenting information based on human cognitive abilities and limitations.
 tags:
 - Information Visualization
 date: "2020-04-27T00:00:00Z"
