@@ -31,8 +31,8 @@
 #  weight = 50
 
 [[main]]
-  name = "Announcements"
-  url = "#announcements"
+  name = "Opportunities"
+  url = "#opportunities"
   weight = 50
   
 
