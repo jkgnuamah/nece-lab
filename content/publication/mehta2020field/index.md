@@ -33,7 +33,6 @@ publication_short: ""
 
 abstract: There has been increasing use of small unmanned aerial systems in disaster and incident response. We evaluated sUAS pilot states during the tactical response to the 2018 Kilauea Volcano Lower East Rift Zone event, using a 3-minute psychomotor vigilance test (PVT) and wrist worn heart rate sensor. The field data, collected over four days, indicated that the sUAS pilots did not recover to baseline vigilance and physiological levels. Some pilots stopped participating over time, owing to logistical constraints of performing the 3-minute PVT test. Additionally, all pilots refrained from rating their perceived workload levels. We summarize the utility of and challenges associated with collecting performance, physiological, and subjective measures of pilot fatigue during real disaster response.
 
-
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -77,11 +76,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-# {{% callout note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-# {{% /callout %}}
-
-# {{% callout note %}}
-# Create your slides in Markdown - click the *Slides* button to check out the example.
-# {{% /callout %}}
