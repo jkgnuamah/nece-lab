@@ -1,9 +1,8 @@
 ---
 title: Real-time Dynamic Decision Support System
-summary: This research seeks to develop decision
-support systems that employ machine learning models to capture expert knowledge or agreed standards (e.g. such as protocols or guidelines) and provide specific guidance and insights to decision makers in real-time.
+summary: This research seeks to develop decision support systems that employ machine learning models to capture expert knowledge or agreed standards (e.g. such as protocols or guidelines) and provide specific guidance and insights to decision makers in real-time.
 tags:
-- Information Visualization
+- Decision Support System
 date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -31,6 +30,4 @@ url_video: ""
 # slides: example
 ---
 
-Machine learning approaches have not been well explored in judgment analysis research. Relevant machine learning algorithms can be used to capture experts’ policies and predict human judgment. This research seeks to develop decision
-support systems that employ machine learning models to capture expert knowledge or agreed standards (e.g. such as protocols or guidelines) and provide specific guidance and insights to decision makers in real-time. Such systems are
-applicable to several domains including healthcare, supervisory control and autonomous systems.
+Machine learning approaches have not been well explored in judgment analysis research. Relevant machine learning algorithms can be used to capture experts’ policies and predict human judgment. This research seeks to develop decision support systems that employ machine learning models to capture expert knowledge or agreed standards (e.g. such as protocols or guidelines) and provide specific guidance and insights to decision makers in real-time. Such systems are applicable to several domains including healthcare, supervisory control and autonomous systems.
