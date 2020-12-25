@@ -30,4 +30,4 @@ image:
 # slides: example
 ---
 
-Enhanced VR is also one of the 14 Grand Challenges for Engineering in the 21st century. For virtual reality (VR) systems to fully simulate reality effectively, several engineering hurdles must be overcome. Research in neuroergonomics will provide new insights into the neural mechanisms underlying (1) training using VR, and (2) therapeutic applications using VR.
+Enhanced VR is also one of the 14 Grand Challenges for Engineering in the 21st century. For virtual reality (VR) systems to fully simulate reality effectively, several engineering hurdles must be overcome. This research provides new insights into the neural mechanisms underlying (1) training using VR, and (2) therapeutic applications using VR.
