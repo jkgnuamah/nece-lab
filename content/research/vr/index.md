@@ -2,8 +2,8 @@
 title: Virtual Reality in Neuroergonomics
 summary: This research seeks to provide new insights into the neural mechanisms underlying (1) training using virtual reality, and (2) therapeutic applications using virtual reality.
 tags:
- - Virtual Reality in Neuroergonomics
- date: "2020-04-27T00:00:00Z"
+# - Virtual Reality in Neuroergonomics
+# date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
