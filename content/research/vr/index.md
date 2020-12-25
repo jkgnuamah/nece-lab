@@ -1,6 +1,6 @@
 ---
 title: Virtual Reality in Neuroergonomics
-summary: This research seeks to develop information representations that map directly onto human intuitive processes by integrating and optimally presenting information based on human cognitive abilities and limitations.
+summary: This research seeks to provide new insights into the neural mechanisms underlying (1) training using virtual reality, and (2) therapeutic applications using virtual reality.
 tags:
 # - Information Visualization
 # date: "2020-04-27T00:00:00Z"
@@ -30,5 +30,4 @@ image:
 # slides: example
 ---
 
-Traditional human-system interfaces are designed to promote ease of use but have little regard for the impact that they have on users’ cognitive representations. This research investigates how human-system interactions may be improved by incorporating both analytical and intuitive cognition in them. We seek to develop information representations that map directly onto human intuitive processes by integrating and optimally presenting
-information based on human cognitive abilities and limitations. 
+Enhanced VR is also one of the 14 Grand Challenges for Engineering in the 21st century. For virtual reality (VR) systems to fully simulate reality effectively, several engineering hurdles must be overcome. Research in neuroergonomics will provide new insights into the neural mechanisms underlying (1) training using VR, and (2) therapeutic applications using VR.
