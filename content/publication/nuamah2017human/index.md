@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 
 date: "2017-06-18T00:00:00Z" 
-doi: ""
+doi: "10.1109/SYSOSE.2017.7994979"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-06-18T00:00:00Z"
