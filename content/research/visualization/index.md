@@ -2,25 +2,25 @@
 title: Improving Information Visualization in Human-System Interaction
 summary: This research seeks to develop information representations that map directly onto human intuitive processes by integrating and optimally presenting information based on human cognitive abilities and limitations.
 tags:
-- Information Visualization
-date: "2020-04-27T00:00:00Z"
+# - Information Visualization
+# date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+# external_link: ""
 
 image:
   # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
+# links:
 # - icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#  url_code: ""
+#  url_pdf: ""
+#  url_slides: ""
+#  url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
