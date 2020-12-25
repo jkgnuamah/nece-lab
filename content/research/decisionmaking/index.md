@@ -8,19 +8,19 @@ summary: This research seeks to develop decision support systems that employ mac
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
 
-image:
+#image:
   # caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  # focal_point: Smart
 
 # links:
 # - icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+#  url_code: ""
+#  url_pdf: ""
+#  url_slides: ""
+#  url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
