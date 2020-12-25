@@ -26,7 +26,7 @@ publishDate: "2017-06-18T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*12th System of Systems Engineering Conference (SoSE)*"
+publication: In *12th System of Systems Engineering Conference (SoSE)*
 publication_short: ""
 
 abstract: Humans would play a central role in IoT systems. The human operator represents one of the most vulnerable in the IoT system, one who can easily be overlooked. In the present study, we sought to accentuate human-in-the-loop issues in System of Systems, and in particular IoT systems through reviewing relevant literature from various perspectives. Some of the issues we highlighted include information visualization, cognition and human trust in intelligent systems. We also explained how neuroergonomics approaches may be employed together with traditional behavioral and subjective measures to improve human-IoT device interactions.
