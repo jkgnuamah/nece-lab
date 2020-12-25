@@ -1,8 +1,8 @@
 ---
 title: Real-time Dynamic Decision Support System
 summary: This research seeks to develop decision support systems that employ machine learning models to capture expert knowledge or agreed standards (e.g. such as protocols or guidelines) and provide specific guidance and insights to decision makers in real-time.
-tags:
-- Decision Support Systems, Artificial Intelligence
+# tags:
+# - Decision Support Systems, Artificial Intelligence
 # date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
