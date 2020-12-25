@@ -18,7 +18,7 @@ authors:
 # - "Equal contribution"
 
 date: "2020-08-24T00:00:00Z" 
-doi: ""
+doi: "https://doi.org/10.1016/j.ijrobp.2020.07.2176"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-24T00:00:00Z"
