@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 
 date: "2020-08-01T00:00:00Z"
-doi: ""
+doi: "http://dx.doi.org/10.1136/bmjopen-2020-036884"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-01T00:00:00Z"
