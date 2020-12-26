@@ -17,7 +17,7 @@ authors:
 # - "Equal contribution"
 
 date: "2020-07-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.apergo.2020.103173"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-01T00:00:00Z"
