@@ -1,5 +1,5 @@
 ---
-title: HTC Vive
+title: Oculus Quest
 summary: Allows us to understand how people view and interact in the real, dynamic world
 # tags:
 # - Decision Support Systems, Artificial Intelligence
