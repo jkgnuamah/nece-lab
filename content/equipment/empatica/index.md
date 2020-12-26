@@ -1,6 +1,6 @@
 ---
 title: E4 wristband
-summary: Real-time physiological data streaming and visualization
+summary: Enables real-time physiological data streaming and visualization
 # tags:
 # - Decision Support Systems, Artificial Intelligence
 # date: "2020-04-27T00:00:00Z"
