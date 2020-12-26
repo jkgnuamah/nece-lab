@@ -1,6 +1,6 @@
 ---
 title: Tobii Pro Glasses
-summary: Allows us to understand how people view and interact in the real, dynamic world
+summary: Enables understanding of how people view and interact in the real, dynamic world
 # tags:
 # - Decision Support Systems, Artificial Intelligence
 # date: "2020-04-27T00:00:00Z"
