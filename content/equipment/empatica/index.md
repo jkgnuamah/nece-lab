@@ -1,6 +1,6 @@
 ---
-title: Real-time Dynamic Decision Support System
-summary: This research seeks to develop decision support systems that employ machine learning models to capture expert knowledge or agreed standards (e.g. such as protocols or guidelines) and provide specific guidance and insights to decision makers in real-time.
+title: E4 wristband
+summary: Real-time physiological data streaming and visualization
 # tags:
 # - Decision Support Systems, Artificial Intelligence
 # date: "2020-04-27T00:00:00Z"
@@ -29,4 +29,4 @@ summary: This research seeks to develop decision support systems that employ mac
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Machine learning approaches have not been well explored in judgment analysis research. Relevant machine learning algorithms can be used to capture experts’ policies and predict human judgment. This research seeks to develop decision support systems that employ machine learning models to capture expert knowledge or agreed standards (e.g. such as protocols or guidelines) and provide specific guidance and insights to decision makers in real-time. Such systems are applicable to several domains including healthcare, supervisory control and autonomous systems.
+The E4 wristband continuously, noninvasively, and unobtrusively collects electrodermal activity, heart rate, acceleration, and temperature data.
