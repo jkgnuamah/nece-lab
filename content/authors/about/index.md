@@ -59,5 +59,5 @@ highlight_name: false
  - Lab Director
 ---
 
-# Joseph Nuamah is an Assistant Professor at the School of Industrial Engineering & Management. His research focuses on quantification of human physiological and behavioral states during the performance of complex tasks in operational environments.
+Joseph Nuamah is an Assistant Professor at the School of Industrial Engineering & Management. His research focuses on quantification of human physiological and behavioral states during the performance of complex tasks in operational environments.
 
