@@ -55,8 +55,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Lab Director
+ user_groups:
+ - Lab Director
 ---
 
 # Joseph Nuamah is an Assistant Professor at the School of Industrial Engineering & Management. His research focuses on quantification of human physiological and behavioral states during the performance of complex tasks in operational environments.
