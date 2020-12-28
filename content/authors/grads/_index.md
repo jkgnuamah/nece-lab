@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Joseph Nuamah
+# title: Joseph Nuamah
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Assistant Professor
+# role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
