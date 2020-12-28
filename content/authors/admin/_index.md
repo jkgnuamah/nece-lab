@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Joseph Nuamah
+title: Joseph Nuamah, Ph.D., PMP
 
 # Is this the primary user of the site?
 superuser: true
