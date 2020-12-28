@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 
 date: "2007-06-23T00:00:00Z"
-doi: "https://doi.org/10.1080/24725838.2020.1855272"
+doi: "https://doi.org/10.1080/2326263X.2017.1338012"
 
 # Schedule page publish date (NOT publication's date). 
 publishDate: "2007-06-23T00:00:00Z"
@@ -26,7 +26,7 @@ publishDate: "2007-06-23T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*https://doi.org/10.1080/2326263X.2017.1338012*"
+publication: "*Brain-Computer Interfaces*"
 publication_short: ""
 
 abstract: Human-system interaction may be improved by using proactive systems that detect, measure, and assess a user’s cognitive state in real time via diagnostic neurophysiological sensors and appropriate classification methods. The electroencephalography (EEG) task engagement index (TEI), a ratio of EEG power bands (beta/(alpha + theta)), may be used to track how cognitively engaged a person is in a task. In the present study, we performed statistical tests of significance on task engagement indices computed from EEG recorded from six healthy participants who performed five separate cognitive tasks. For all participants, we found a statistically significant difference in task engagement indices between the five cognitive tasks. Also, we used task engagement indices as inputs to support vector machines (SVMs) to allow identification and offline classification of cognitive engagement. We designed six separate multiclass SVMs to classify five cognitive tasks for the participants. The average classification accuracy across the six participants was 93.33 ± 8.16%. The results show that differences in cognitive task demand do elicit different degrees of cognitive engagement, which can be measured through the use of the TEI.
