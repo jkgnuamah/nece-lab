@@ -19,6 +19,7 @@ content:
   - Lab Director
   - Researchers
   - Grad Students
+  - Undergrad Students
   - Administration
   - Visitors
   - Alumni
