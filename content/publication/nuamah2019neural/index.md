@@ -16,7 +16,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2019-08-30T00:00:00Z"  30 August 2019
+date: "2019-08-30T00:00:00Z" 
 doi: "https://doi.org/10.3389/fnhum.2019.00287"
 
 # Schedule page publish date (NOT publication's date).
