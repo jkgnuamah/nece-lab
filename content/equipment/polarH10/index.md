@@ -1,6 +1,6 @@
 ---
-title: Polar H10
-summary: Enables real-time physiological data streaming and visualization
+title: Polar H10 Heart Rate Sensor
+summary: Enables accurate heart rate monitoring
 # tags:
 # - Decision Support Systems, Artificial Intelligence
 # date: "2020-04-27T00:00:00Z"
@@ -29,4 +29,4 @@ summary: Enables real-time physiological data streaming and visualization
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-The E4 wristband continuously, noninvasively, and unobtrusively collects electrodermal activity, heart rate, acceleration, and temperature data.
+The Polar H10 Heart Rate Sensor monitors heart rate with maximum precision and connect heart rate to a wide variety of training devices with Bluetooth® and ANT+.
