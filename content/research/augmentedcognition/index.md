@@ -1,6 +1,6 @@
 ---
-title: Augmented Cognition
-summary: This research seeks to provide new insights into the neural mechanisms underlying (1) training using virtual reality, and (2) therapeutic applications using virtual reality.
+title: Physiological Measures of Cognitive Workload
+summary: This research investigates insensitivities and dissociations between physiological measures of cognitive workload
 tags:
 # - Virtual Reality in Neuroergonomics
 # date: "2020-04-27T00:00:00Z"
@@ -29,5 +29,4 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
-Enhanced VR is also one of the 14 Grand Challenges for Engineering in the 21st century. For virtual reality (VR) systems to fully simulate reality effectively, several engineering hurdles must be overcome. This research provides new insights into the neural mechanisms underlying (1) training using VR, and (2) therapeutic applications using VR.
+Cognitive workload (CWL), a multidimensional construct whose measurement is challenging, has been associated with performance decrements, which is a major concern in safety-critical systems such as aviation, and medicine. While advances in wearable sensor technologies have led to increased use of physiological measurements to assess CWL, researchers have reported insensitivities and dissociations between physiological measures of CWL. This research investigates insensitivities and dissociations between physiological measures of CWL.
