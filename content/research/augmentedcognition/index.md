@@ -1,6 +1,6 @@
 ---
 title: Physiological Measures of Cognitive Workload
-summary: This research investigates insensitivities and dissociations between physiological measures of cognitive workload
+summary: This research investigates insensitivities and dissociations between physiological measures of cognitive workload.
 tags:
 # - Virtual Reality in Neuroergonomics
 # date: "2020-04-27T00:00:00Z"
