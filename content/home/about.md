@@ -16,6 +16,7 @@ design:
 
 
 ---
+**NECE Lab | Oklahoma State University**
 
 The Neuroergonomics and Cognitive Engineering _(NeCE)_ Lab is focused on understanding neural, physiological, and behavioral mechanisms underlying human-system interactions, and using that knowledge to inform the design, development, and assessment of cyber-physical systems with the goal of enhancing productivity, safety, and health.
 
