@@ -1,6 +1,6 @@
 ---
-title: Collaborative Cognition
-summary: This research investigates insensitivities and dissociations between physiological measures of cognitive workload.
+title: Augmented Cognition
+summary: This research seeks to use neuroimaging techniques to determine the cognitive state of an individual and then augment human-system interaction to meet or exceed performance requirements
 tags:
 # - Virtual Reality in Neuroergonomics
 # date: "2020-04-27T00:00:00Z"
@@ -29,5 +29,5 @@ image:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Cognitive workload (CWL), a multidimensional construct whose measurement is challenging, has been associated with performance decrements, which is a major concern in safety-critical systems such as aviation, and medicine. While advances in wearable sensor technologies have led to increased use of physiological measurements to assess CWL, researchers have reported insensitivities and dissociations between physiological measures of CWL. This research investigates insensitivities and dissociations between physiological measures of CWL.
+Advances in sensor technology enable researchers to noninvasively sense an operator’s cognitive state during the operator’s interaction with a system. The sensed data can be assessed relative to (performance or cognitive) baseline(s). Armed with this knowledge, the operator’s performance and/or cognitive state can be augmented to meet or exceed performance requirements. This research seeks to use neuroimaging techniques to determine the cognitive state of an individual and then augment human-system interaction to meet or exceed performance requirements.
 
