@@ -26,7 +26,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Design for Health* (pp. 201-226). Academic Press.
+publication: In *Design for Health* (pp. 201-226). Academic Press
 publication_short: ""
 
 abstract: Preserving or improving the quality of working life of healthcare workers and the quality/safety of patients remains one of the most challenging issues in health care. Contributing to a better understanding of challenges requires in-depth understanding of the mismatch between the various work stressors and individual capabilities that could lead to increased workload, stress, burnout, and fatigue in healthcare workers. This chapter provides a set of design heuristics that address workload, stress, and fatigue management, ranging from individual practices, work system designs, organizational culture, and workplace wellness initiatives. We demonstrate applications of some of these heuristics on a medical resident burnout case study. Finally, the applicability of remote patient/user monitoring systems to address healthcare worker workload, stress, and fatigue is discussed.
