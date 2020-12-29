@@ -9,7 +9,7 @@ tags:
 # external_link: ""
 
 image:
-  caption: Image by Gerd Altmann from Pixabay
+  # caption: Image by Gerd Altmann from Pixabay
   focal_point: Smart
 
 # links:
