@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 
 date: "2020-02-28T00:00:00Z" 
-doi: "10.1109/SYSOSE.2017.7994979"
+doi: "https://doi.org/10.1007/978-3-030-34784-0_21"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-02-28T00:00:00Z"
