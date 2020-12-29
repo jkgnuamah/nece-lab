@@ -26,7 +26,7 @@ publishDate: "2020-02-28T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Neuroergonomics* (pp. 435-449). Springer, Cham.
+publication: In *Neuroergonomics* (pp. 435-449). Springer, Cham
 publication_short: ""
 
 abstract: Information visualization affords us the ability to reason, understand, and gain insight into data. Traditional behavioral and subjective methods of evaluating visualizations are inadequate. Neuroergonomic techniques can be used to complement traditional evaluation methods by assessing noninvasively and unobtrusively participants’ working memory as they engage with the information visualization. In this chapter, we discuss information visualization techniques with an emphasis on evaluating visualizations from a cognitive load perspective. In particular, we review noninvasive functional brain monitoring techniques—electroencephalography (EEG) and functional near-infrared spectroscopy (fNIRS)—and how they have been used in information visualization research. Both measures of neural activity and task-related performance measures can be combined in a manner that enables the relationship between neural activity and performance to be quantified in terms of efficiency. In this chapter, we discuss visual efficiency, a neuroergonomic metric of information visualization. Finally, we review neuroadaptive interfaces—interfaces that modify their functionality in response to changes in the operator’s cognitive state and needs.
