@@ -5,7 +5,7 @@ event: 2020 IISE Annual Conference
 # event_url: https://example.org
 
 location: Virtual
- address:
+ address: Virtual
   street: Virtual
 #  city: Stanford
 #  region: CA
