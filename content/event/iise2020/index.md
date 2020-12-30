@@ -5,12 +5,12 @@ event: 2020 IISE Annual Conference
 # event_url: https://example.org
 
 location: Virtual
-# address:
-#  street: 450 Serra Mall
+ address:
+  street: Virtual
 #  city: Stanford
 #  region: CA
 #  postcode: '94305'
-  country: Virtual
+#  country: Virtual
 
 summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
