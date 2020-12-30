@@ -4,9 +4,9 @@ title: Evaluating Efficiency of Information Visualizations - A Cognitive Load Pe
 event: 2020 IISE Annual Conference 
 # event_url: https://example.org
 
-location: Virtual
- address: 
-  street: Virtual
+# location: Virtual
+# address: 
+#  street: Virtual
 #  city: Stanford
 #  region: CA
 #  postcode: '94305'
