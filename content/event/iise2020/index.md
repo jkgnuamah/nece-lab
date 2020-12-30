@@ -1,5 +1,5 @@
 ---
-title: Example Talk1
+title: Example Talk
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -57,7 +57,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- example
+- internal-project
 ---
 
 {{% callout note %}}
