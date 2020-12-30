@@ -14,7 +14,7 @@ title: Presentations & Talks
 
 ---
 
-Joseph Nuamah. _Evaluating Efficiency of Information Visualizations: A Cognitive Load Perspective._ Presented at: 2020 IISE Virtual Annual Conference; November 3, 2020
+Joseph Nuamah. _Evaluating Efficiency of Information Visualizations: A Cognitive Load Perspective._ Presented at: 2020 IISE Virtual Annual Conference; November 3, 2020.
 
 Joseph Nuamah. _Effectiveness of Feedback Modalities under Stress is Gender-dependent: A NeuroErgonomics Approach._ Presented at: 15th Annual One-Day Symposium of Human Factors and Ergonomics; April 26, 2019; UHCL, Houston, TX.
 
@@ -22,7 +22,7 @@ Joseph Nuamah. _Emergency Response with UAVs for Hawaii’s Kilauea Volcano._ Pr
 
 Joseph Nuamah. _Human Factors in Human-Autonomous Systems: A Neuroergonomic Approach._ Presented at: Congressional Delegation to HBCUs; March 28, 2018; Greensboro, NC.
 
-Joseph Nuamah. _A Machine Learning Approach to Capturing Compensatory and Non-Compensatory Strategies in Judgment Tasks._ Presented at: Human Factors and Ergonomics (HFES) International Annual Meeting; October 13, 2017; Austin, TX
+Joseph Nuamah. _A Machine Learning Approach to Capturing Compensatory and Non-Compensatory Strategies in Judgment Tasks._ Presented at: Human Factors and Ergonomics (HFES) International Annual Meeting; October 13, 2017; Austin, TX.
 
 Joseph Nuamah. _Classification of Cognitive Tasks using Artificial Neural Networks and Support Vector Machines._ Presented at: 2017 Emerging Researchers National Conference in STEM; March 3, 2017; Washington, D.C.
 
