@@ -1,5 +1,5 @@
 ---
-title: Evaluating Efficiency of Information Visualizations: A Cognitive Load Perspective
+title: Evaluating Efficiency of Information Visualizations - A Cognitive Load Perspective
 
 # event: Wowchemy Conference
 # event_url: https://example.org
