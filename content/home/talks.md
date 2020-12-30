@@ -26,7 +26,7 @@ Joseph Nuamah. _A Machine Learning Approach to Capturing Compensatory and Non-Co
 
 Joseph Nuamah. _Classification of Cognitive Tasks using Artificial Neural Networks and Support Vector Machines._ Presented at: 2017 Emerging Researchers National Conference in STEM; March 3, 2017; Washington, D.C.
 
-Joseph Nuamah. _Task EngagementIndex Classification of Cognitive Tasks using Artificial Neural Networks and Support Vector Machines._ Presented at: Autonomous Control & Info Tech Institute, North Carolina A&T State University; June 17, 2016; Greensboro, NC. 
+Joseph Nuamah. _Task Engagement Index Classification of Cognitive Tasks using Artificial Neural Networks and Support Vector Machines._ Presented at: Autonomous Control & Info Tech Institute, North Carolina A&T State University; June 17, 2016; Greensboro, NC. 
 
 Joseph Nuamah. _EEG-Based Artificial Neural Network Classification of Intuition and Analysis Cognition._ Presented at: Department of Defense Human Factors Engineering Technical Advisory Group Meeting 70; May 13, 2016; NASA Langley, Hampton, VA.
 
