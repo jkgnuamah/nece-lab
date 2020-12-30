@@ -4,7 +4,7 @@ title: Evaluating Efficiency of Information Visualizations - A Cognitive Load Pe
 event: 2020 IISE Annual Conference 
 # event_url: https://example.org
 
-# location: Virtual
+ location: Virtual
 # address: 
 #  street: Virtual
 #  city: Stanford
@@ -24,8 +24,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-# authors: []
-# tags: []
+ authors: []
+ tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
