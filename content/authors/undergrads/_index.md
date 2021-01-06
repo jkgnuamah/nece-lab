@@ -16,6 +16,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
+
+# Should the user's education and interests be displayed?
+display_education: false
+
 interests:
 - Neuroergonomics
 - Human Factors Issues in Augmented and Virtual Reality
