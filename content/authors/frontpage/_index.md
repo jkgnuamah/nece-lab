@@ -1,7 +1,7 @@
 ---
 # Display name
 name: NeCE Lab | Oklahoma State University
-avatar_image: "welcome.jpg"
+# avatar_image: "welcome.jpg"
 # Username (this should match the folder name)
 authors:
 - frontpage
@@ -22,13 +22,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: The Neuroergonomics and Cognitive Engineering _(NeCE)_ Lab, located in the College of Engineering, Architecture & Technology, is focused on understanding neural, physiological, and behavioral mechanisms underlying human-system interactions, and using that knowledge to inform the design, development, and assessment of cyber-physical systems with the goal of enhancing productivity, safety, and health.
-
-Areas of application include aviation, health care, surface transportation, energy, and military systems.
-
+bio: The Neuroergonomics and Cognitive Engineering _(NeCE)_ Lab, located in the College of Engineering, Architecture & Technology, is focused on understanding neural, physiological, and behavioral mechanisms underlying human-system interactions, and using that knowledge to inform the design, development, and assessment of cyber-physical systems with the goal of enhancing productivity, safety, and health. Areas of application include aviation, health care, surface transportation, energy, and military systems.
 
 # Should the user's education and interests be displayed?
-display_education: false
+# display_education: false
 
 interests:
 - Artificial Intelligence
@@ -77,5 +74,4 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Front Page
-
 ---
