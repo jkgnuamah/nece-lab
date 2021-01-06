@@ -1,24 +1,21 @@
 ---
-# An instance of the People widget.
+# An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
+widget: about
+
+# Activate this widget? true/false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 20
 
 title: NeCE Lab | Oklahoma State University
-subtitle:
 
-content:
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups:
-  - Front Page
-design:
-  show_interests: false
-  show_role: false
-  show_social: true
+# Choose the user profile to display
+# This should be the username (folder name) of a profile in your `content/authors/` folder.
+# See https://wowchemy.com/docs/get-started/#introduce-yourself
+author: frontpage
 ---
