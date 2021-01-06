@@ -1,7 +1,7 @@
 ---
 # Display name
 name: NeCE Lab | Oklahoma State University
-avatar_image: "user-full.png"
+avatar_image: "welcome.jpg"
 # Username (this should match the folder name)
 authors:
 - frontpage
