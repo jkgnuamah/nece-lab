@@ -28,7 +28,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Health Environments Research & Design*"
-publication_short: "*HERD*"
+# publication_short: "*HERD*"
 
 abstract: This study sought to investigate architectural and space design considerations for veterans with post-traumatic stress disorder (PTSD). Anecdotal evidence suggests that urban design features could have a positive impact on the mental well-being of individuals suffering from PTSD. However, evidence-based architectural and space design guidelines for PTSD are largely absent. Semi-structured interviews were conducted with 17 veterans diagnosed with PTSD to gain insights into their personal experiences with physical indoor and outdoor spaces, and to inquire about their needs and expectations for future architectural design. Transcripts were analyzed thematically. Architectural design features including windows, entrances and exits, walkways and hallways, open space, defensible space, and green space; interior design features including furnishings and color; and ambient features including light, air quality, and noise levels were identified as most influential design features .Our results underscore the first important step to developing comprehensive architectural and space design guidelines for veterans with PTSD. Work is in progress to solicit more feedback from veterans.
 # Summary. An optional shortened abstract.
