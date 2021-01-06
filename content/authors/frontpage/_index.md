@@ -22,7 +22,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: The Neuroergonomics and Cognitive Engineering _(NeCE)_ Lab, located in the College of Engineering, Architecture & Technology, is focused on understanding neural, physiological, and behavioral mechanisms underlying human-system interactions, and using that knowledge to inform the design, development, and assessment of cyber-physical systems with the goal of enhancing productivity, safety, and health.
+
+Areas of application include aviation, health care, surface transportation, energy, and military systems.
+
 
 # Should the user's education and interests be displayed?
 display_education: false
@@ -76,7 +79,3 @@ user_groups:
 - Front Page
 
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
