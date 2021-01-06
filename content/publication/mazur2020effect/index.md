@@ -30,7 +30,7 @@ publishDate: "2020-08-24T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IISE Transactions on Occupational Ergonomics and Human Factors*"
+publication: "*Practical Radiation Oncology*"
 publication_short: ""
 
 abstract: Our purpose was to assess the effect of a combined intervention – simulation-based training supported by neurofeedback sessions – on radiation technologists’ (RTs’) workload, situation awareness, and performance during routine quality assurance and treatment delivery tasks. As part of a prospective institutional review board approved study, 32 RTs previously randomized to receive versus not receive simulation-based training focused on patient safety were again randomized to receive versus not receive a 3-week neurofeedback intervention (8 sessions of alpha-theta protocol) focused on stress reduction as well as conscious precision, strong focus, and ability to solve arising problems. Perceived workload was quantified using the NASA Task Load Index. Situation awareness was quantified using the situation awareness rating technique. Performance score was calculated using procedural compliance with time-out components and error detection. RTs randomized to simulation-based training followed by neurofeedback sessions demonstrated no significant changes in perceived workload or situation awareness scores, but did have better performance compared with other study groups (P < .01). This finding is encouraging and provides basis for using neurofeedback as means to possibly augment performance improvements gained during simulation-based training.
