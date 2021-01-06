@@ -20,7 +20,7 @@ date: "2020-07-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.apergo.2020.103173"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2021-01-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
