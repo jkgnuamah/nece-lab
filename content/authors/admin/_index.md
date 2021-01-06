@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Joseph Nuamah is an Assistant Professor at the School of Industrial Engineering & Management. His research focuses on quantification of human physiological and behavioral states during the performance of complex tasks in operational environments.
 
 interests:
 - Neuroergonomics
