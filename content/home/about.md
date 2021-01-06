@@ -1,5 +1,7 @@
 ---
-widget: hero
+# An instance of the People widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: people
 
 # This file represents a page section.
 headless: true
@@ -7,17 +9,16 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-hero_media: welcome.jpg
+title: NeCE Lab | Oklahoma State University
+subtitle:
 
+content:
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups:
+  - Front Page
 design:
-  # Minimum and maximum font sizes (1.0 = 100%).
-  font_size_min: 0.7
-  font_size_max: 0.8
-
-
+  show_interests: false
+  show_role: true
+  show_social: true
 ---
-**NeCE Lab | Oklahoma State University**
-
-The Neuroergonomics and Cognitive Engineering _(NeCE)_ Lab, located in the College of Engineering, Architecture & Technology, is focused on understanding neural, physiological, and behavioral mechanisms underlying human-system interactions, and using that knowledge to inform the design, development, and assessment of cyber-physical systems with the goal of enhancing productivity, safety, and health.
-
-Areas of application include aviation, health care, surface transportation, energy, and military systems.
