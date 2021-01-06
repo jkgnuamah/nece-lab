@@ -1,6 +1,6 @@
 ---
 title: Augmented Cognition
-summary: This research seeks to use neuroimaging techniques to determine the cognitive state of an individual and then augment human-system interaction to meet or exceed performance requirements
+summary: This research seeks to use neuroimaging techniques to determine the cognitive state of an individual and then augment human-system interaction to meet or exceed performance requirements.
 tags:
 # - Virtual Reality in Neuroergonomics
 # date: "2020-04-27T00:00:00Z"
