@@ -1,12 +1,12 @@
 ---
 # Display name
- title: Enrico Laoh
+ title: Enrico Laoh, MS Student
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
- role: MS Student
+ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
