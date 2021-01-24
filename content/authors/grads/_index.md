@@ -1,6 +1,6 @@
 ---
 # Display name
- title: Enrico Laoh, MS Student
+# title: Enrico Laoh, MS Student
 
 # Is this the primary user of the site?
 superuser: false
