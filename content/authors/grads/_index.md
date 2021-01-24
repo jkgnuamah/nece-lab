@@ -10,7 +10,7 @@
 superuser: false
 
 # Role/position
-# role: Research Assistant
+ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -71,7 +71,7 @@ education:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+# highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
