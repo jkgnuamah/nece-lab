@@ -3,8 +3,8 @@
 # title: Enrico Laoh, MS Student
  
  # Username (this should match the folder name)
-authors:
-- grads
+# authors:
+# - grads
 
 # Is this the primary user of the site?
 superuser: false
