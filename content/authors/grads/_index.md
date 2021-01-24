@@ -1,12 +1,12 @@
 ---
 # Display name
- title: Enrico Laoh, MS Student
+# title: Joseph Nuamah
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
- role: Research Assistant
+# role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
