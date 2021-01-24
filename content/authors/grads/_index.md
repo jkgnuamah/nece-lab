@@ -1,6 +1,6 @@
 ---
 # Display name
- title: Enrico Laoh, MS Student
+# title: Enrico Laoh, MS Student
  
  # Username (this should match the folder name)
 authors:
