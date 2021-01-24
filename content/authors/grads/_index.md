@@ -6,7 +6,7 @@
 superuser: false
 
 # Role/position
-# role: Assistant Professor
+ role: MS Student
 
 # Organizations/Affiliations
 organizations:
